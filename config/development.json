@@ -1,4 +1,4 @@
 {
-  "assetsBaseUrl": "http://192.168.168.61:9000/assets/",
+  "assetsBaseUrl": "https://demoreactnativeapp.herokuapp.com/assets/",
   "port": 9000
 }
